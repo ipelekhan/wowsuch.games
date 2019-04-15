@@ -1,0 +1,23 @@
+{
+  "name": "wowsuch.games",
+  "version": "0.0.0",
+  "description": "Such website",
+  "main": "index.pug",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipelekhan/wowsuch.games.git"
+  },
+  "keywords": [
+    "static",
+    "website"
+  ],
+  "author": "Igor Pelekhan <igor@pelekhan.com> (https://igor.pelekhan.com/)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/ipelekhan/wowsuch.games/issues"
+  },
+  "homepage": "https://github.com/ipelekhan/wowsuch.games#readme"
+}
